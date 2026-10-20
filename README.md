@@ -73,5 +73,4 @@ Están todos en la clase `Config` (sección 1 del notebook):
 ## Notas
 
 - El filtro de seguridad (*safety checker*) de Stable Diffusion está activado. Si alguna imagen sale negra (falso positivo), basta con cambiar la semilla `SEED`.
-- Validé el código de principio a fin en CPU con un modelo diminuto (`hf-internal-testing/tiny-stable-diffusion-torch`), sobrescribiendo `MODEL_ID`, `N_SAMPLES`, `RESOLUTION` y `SUBIR_A_HF` con variables de entorno. Las imágenes reales se obtienen en GPU con el modelo SD v1.4.
 - Licencia del modelo base: CreativeML OpenRAIL-M. Dataset: [gigant/oldbookillustrations](https://huggingface.co/datasets/gigant/oldbookillustrations) (ilustraciones de [oldbookillustrations.com](https://www.oldbookillustrations.com)).

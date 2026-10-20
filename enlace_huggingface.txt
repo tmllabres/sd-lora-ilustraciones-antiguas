@@ -1,0 +1,4 @@
+Modelo finetuneado con LoRA (Stable Diffusion v1.4 + ilustraciones de libros antiguos)
+
+LoRA: https://huggingface.co/tmllabres/sd-v1-4-lora-ilustraciones-antiguas
+Modelo completo (LoRA fusionado): https://huggingface.co/tmllabres/sd-v1-4-ilustraciones-antiguas

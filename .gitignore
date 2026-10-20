@@ -1,0 +1,17 @@
+# Pesos y artefactos pesados (están en Hugging Face)
+lora-ilustraciones-antiguas/
+lora-ilustraciones-antiguas-fusionado/
+exp-r*/
+entrega_resultados.zip
+*.safetensors
+*.ckpt
+
+# Material del curso (no se publica)
+enunciado.pdf
+
+# Entorno
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
